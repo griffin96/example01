@@ -1,6 +1,6 @@
 package ConditionOperator;
 
-public class LoginDemo2 {
+public class LoginDemo3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
