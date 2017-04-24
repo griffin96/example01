@@ -17,7 +17,7 @@ public class CalculatorDemo3 {
         Calculator3.sum(10, 20);   // 인스턴스가 등장하지 않음
         Calculator3.avg(10, 20);
          
-        Calculator3.sum(20, 40);
+        Calculator3.sum(20, 40);  // 클래스에 직접 접근해서 수행
         Calculator3.avg(20, 40);
     }
  
